@@ -21,4 +21,8 @@ some reanimate methods i have made or edited for more functionality and optimiza
 
 ### methods that doesnt replicate from the client to other people
 
-* placeholder
+* transform reanimate: https://github.com/somethingsimade/transform-reanimate
+* pros:
+* full reanimate
+* cons:
+* doesnt replicate

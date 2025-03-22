@@ -15,6 +15,6 @@ some reanimate methods i have made or edited for more functionality and optimiza
 * placeholder
 * placeholder
 
-### methods that replicate
+### methods that doesnt replicate from the client to other people
 
 * placeholder
